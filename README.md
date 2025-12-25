@@ -16,7 +16,7 @@ I'm a passionate developer who loves building Minecraft mods and exploring game 
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=arc-client&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats-ouuan.vercel.app/api?username=arc-client&show_icons=true)
 
 ## 📫 Connect With Me
 
